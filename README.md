@@ -106,6 +106,3 @@ With default settings:
 - **Planter inner cavity**: 84 × 84 × 74mm
 - **Saucer outer**: 100 × 100 × 12mm
 
-## License
-
-This design is provided as-is for personal and commercial use.
